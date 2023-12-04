@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julienbonastre 🚀
-- 👀 I’m interested in Space eXploration, creating by code and evolving humanity 🤣
+- 👀 I’m interested in Space eXploration, Everything-as-Code and evolving humanity 🤣
 - 🌱 I’m currently learning AWS Cloud, Golang, CDK...
 - 💞️ I’m looking to collaborate on replacing eBay 👌🏼
 - 📫 How to reach me: @julien_yb
