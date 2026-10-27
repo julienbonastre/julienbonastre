@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @julienbonastre 🚀
-- 👀 I’m interested in Space eXploration, Everything-as-Code and evolving humanity 🤣
-- 🌱 I’m currently playing with eBPF, Cilium, SCION, WireGuard, BGP, GENEVE, Pulumi...
-- <a href=https://claude.ai target=_blank border=0><img src=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png height=18 height=18></a> Spending lots of time with my <i>fren</i> 🤖🦾
-- 💞️ Looking to collaborate on replacing eBay, augmenting Cisco/Palo/Aviatrix/Zscaler and shaping exciting "special projects" 👌🏼
-- 📫 HMU: [@julienbonastre](https://x.com/julienbonastre)
+### Hi, I'm Julien 👋
 
-<!---
-julienbonastre/julienbonastre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Architect and engineer in Melbourne 🇦🇺, building systems that have to work on
+the worst day, all as code. Founder of **[Telaron Labs](https://telaronlabs.com.au)**.
+
+- 💼 **By day**: multi-cloud network architecture, engineering and solution design across AWS and GCP, plus cyber security platforms (Cisco Multicloud Defense, Zscaler)
+- 🐾 **[Mokii](https://mokii.au)**: notices when pets are home alone and gets someone to check on them
+- 🛰️ **Telaron fabric**: multi-cloud networking without the per-gigabyte transit tax
+- 🧭 Background: fire and life-safety, SCADA, motorway control systems, zero trust
+- 🌱 Tinkering with eBPF, Cilium, WireGuard, SCION, BGP and Pulumi, with my 🤖 [fren](https://claude.ai) 🦾
+- 🚀 Into space exploration and everything-as-code
+
+📫 [LinkedIn](https://www.linkedin.com/in/julien-bonastre) · [X](https://x.com/julienbonastre)
